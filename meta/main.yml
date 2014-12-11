@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Playlist
+  company: Playlist
+  description: Installs redis and redis sentinel from source
+  min_ansible_version: 1.6.3
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+        - All
+  categories:
+    - database
+    - database:nosql
+
+dependencies: []
